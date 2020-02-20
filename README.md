@@ -1,2 +1,0 @@
-# Tajemm
-Created with CodeSandbox

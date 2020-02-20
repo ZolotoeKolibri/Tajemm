@@ -1,0 +1,14 @@
+.nav {
+  display: flex;
+  align-items: center;
+}
+.nav .nav-item {
+  margin-right: 10px;
+  text-transform: uppercase;
+  padding: 10px;
+}
+.nav .nav-item:hover {
+}
+
+.nav .is-active {
+}

@@ -1,0 +1,38 @@
+/* prefixed by https://autoprefixer.github.io (PostCSS: v7.0.26, autoprefixer: v9.7.3) */
+
+.list {
+  position: relative;
+  margin-left: -15px;
+}
+
+.list-item {
+  list-style: none;
+  margin-bottom: 15px;
+}
+
+.list-icon:hover {
+  text-decoration: none;
+}
+
+.list-social-networks {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+}
+
+.icon-map {
+  position: absolute;
+  background-size: cover;
+  left: 15px;
+  top: 1px;
+}
+
+.icon-phone {
+  position: absolute;
+  background-size: cover;
+  left: 13px;
+  bottom: 3px;
+}
